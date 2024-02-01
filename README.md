@@ -83,13 +83,20 @@ S.no	Job Name
 <img width="980" alt="Screenshot 2024-01-31 at 9 14 48 PM" src="https://github.com/manya-reddy/Imdb_movies/assets/113812925/2d713f98-13f6-4be1-b5cf-a4e176e5f28a">
 
 
+
+
 <img width="980" alt="Screenshot 2024-01-31 at 9 15 14 PM" src="https://github.com/manya-reddy/Imdb_movies/assets/113812925/caa8ff82-e1d3-458b-87fb-067e1294fd2b">
 
 
 
 
 
+
 III. Dimensional Modelling - 
+
+
+
+
  <img width="524" alt="image" src="https://github.com/manya-reddy/Imdb_movies/assets/113812925/6570cb84-acad-4335-957f-7775b85780c2">
 
 
