@@ -1,6 +1,7 @@
 # Imdb_movies
+
+
  
- ![image](https://github.com/manya-reddy/Imdb_movies/assets/113812925/814bd5a0-c7d0-457f-a5f4-b2824aa9b609)
 
  ![image](https://github.com/manya-reddy/Imdb_movies/assets/113812925/cf29b02d-1972-416a-8f55-a675f7356951)
 
@@ -9,6 +10,11 @@ Dataset
 IMDB Movie Ratings
 
 I. Perform Data Profiling with Alteryx 
+
+
+
+
+
   
    
 <img width="222" alt="image" src="https://github.com/manya-reddy/Imdb_movies/assets/113812925/160edb70-a9eb-4670-95e8-e4b36c572ae3">
