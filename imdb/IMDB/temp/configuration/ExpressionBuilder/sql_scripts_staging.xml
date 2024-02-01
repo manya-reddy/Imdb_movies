@@ -1,0 +1,13 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_7=>" expression="TalendDate.formatDate(&quot;yyyy&quot;, row1.input_date)">
+  <variables name="row10.tconst" value="null" talendType="id_String"/>
+  <variables name="row10.titleType" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row10.primaryTitle" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row10.originalTitle" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row10.isAdult" value="null" talendType="id_Byte" nullable="true"/>
+  <variables name="row10.startYear" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row10.endYear" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row10.runtimeMinutes" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row10.DI_CreatedDate" value="null" talendType="id_Date"/>
+  <variables name="row10.DI_JobID" value="null" talendType="id_String"/>
+</expression:EMFExpression>
