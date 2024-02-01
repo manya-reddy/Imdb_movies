@@ -1,6 +1,6 @@
 # Imdb_movies
  
- 
+ ![image](https://github.com/manya-reddy/Imdb_movies/assets/113812925/814bd5a0-c7d0-457f-a5f4-b2824aa9b609)
 
  ![image](https://github.com/manya-reddy/Imdb_movies/assets/113812925/cf29b02d-1972-416a-8f55-a675f7356951)
 
@@ -122,4 +122,4 @@ Tableau Dashboard Link
 
 
 
-![image](https://github.com/manya-reddy/Imdb_movies/assets/113812925/814bd5a0-c7d0-457f-a5f4-b2824aa9b609)
+
